@@ -36,7 +36,7 @@ Changes must be made within a text editor of your choice, and saved within or us
   1. Type **git checkout master** and *Enter* 
   2. Type **git pull** *fork link* **master** and *Enter*
     - Resolve any conflicts, commit and pull again
-  3. Type **git merge _New Feature Name_
+  3. Type **git merge _New Feature Name_**
     - Resolve any conflicts
   
 ## 6. Committing and Pulling ##
