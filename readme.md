@@ -17,22 +17,22 @@ Using the github account at https://github.com/hb08/dwp.git
   
 ## 2.  Creating Local Clone ##
 After acquiring Git, copying the fork url, and navigating to your home directory for the files,
-  1.  Type **git clone _fork url_ **
-  2.  Press *Enter *
+  1.  Type **git clone** *fork url*
+  2.  Press *Enter*
 
 ## 3. Sync Git   ##
 After copying url to clone of repository, and navigating into the fork cloned in step 2
-  1.  Type **git remote -v ** to view configured remote repositories 
-  2.  Type **git remote add upstream ** * fork url *
-  		- Type ** git remote -v ** to verify upstream is there 
+  1.  Type **git remote -v** to view configured remote repositories 
+  2.  Type **git remote add upstream** *fork url*
+  		- Type ** git remote -v** to verify upstream is there 
 
 ## 4.  Making Changes ##
 Changes must be made within a text editor of your choice, and saved within or using the file structure of the existing project.
 
 ## 5.  Saving Changes ##
   1. Type **git init**
-  2. Type **git add . **
-  3. Type **git commit -m ' _Appropriate Comment_ ' 
-  4. Type **git push origin ** *fork name ex. master *
+  2. Type **git add .**
+  3. Type **git commit -m ' _Appropriate Comment_ '** 
+  4. Type **git push origin ** *fork name ex. master*
 
 
