@@ -10,7 +10,8 @@ Thank you for taking interest in my portfolio. To make changes, please follow my
 3. Sync Git
 4. Making Changes
 5. Check For Conflicts
-6. Saving Changes
+6. Committing and Pushing
+7. Saving Changes
 
 
 ---
@@ -39,11 +40,11 @@ Changes must be made within a text editor of your choice, and saved within or us
     - Resolve any conflicts
   
 ## 6. Committing and Pulling ##
-	1.  Type **git add -A** and *Enter*
-	2.  Type **git commit -am ' _Appropriate Comment_ '** and *Enter*
-  	3.  Type **git pull _github address_ master** and *Enter*
+  1.  Type **git add -A** and *Enter*
+  2.  Type **git commit -am ' _Appropriate Comment_ '** and *Enter*
+  3.  Type **git pull _github address_ master** and *Enter*
   		
-## 6.  Saving Changes ##
+## 7.  Saving Changes ##
   1. Type **git push origin** *fork name ex. master* and *Enter*
 
 
