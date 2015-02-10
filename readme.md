@@ -11,6 +11,8 @@ Thank you for taking interest in my portfolio. To make changes, please follow my
 4. Making Changes
 5. Check For Conflicts
 6. Saving Changes
+
+
 ---
 ## 1.  Forking Git ##
 Using the github account at https://github.com/hb08/dwp.git
@@ -24,7 +26,7 @@ After acquiring Git, copying the fork url, and navigating to your home directory
 After copying url to clone of repository, and navigating into the fork cloned in step 2
   1.  Type **git remote -v** to view configured remote repositories 
   2.  Type **git remote add upstream** *fork url*  and *Enter*
-  		-Type **Git remote -v** and *Enter* to verify upstream is there 
+    - Type **Git remote -v** and *Enter* to verify upstream is there 
 
 ## 4.  Making Changes ##
 Changes must be made within a text editor of your choice, and saved within or using the file structure of the existing project.
@@ -32,9 +34,9 @@ Changes must be made within a text editor of your choice, and saved within or us
 ## 5.  Check For Conflicts ##
   1. Type **git checkout master** and *Enter* 
   2. Type **git pull** *fork link* **master** and *Enter*
-  		-Resolve any conflicts, commit and pull again
-ß  3. Type **git merge _New Feature Name_
-  		-Resolve any conflicts
+    - Resolve any conflicts, commit and pull again
+  3. Type **git merge _New Feature Name_
+    - Resolve any conflicts
   
 ## 6. Committing and Pulling ##
 	1.  Type **git add -A** and *Enter*
