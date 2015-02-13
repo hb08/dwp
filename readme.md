@@ -29,7 +29,7 @@ Changes must be made within a text editor of your choice, and saved within or us
 ## 4. Merging ##
   1.  Type **git merge** *changeName*
       - Resolve any conflicts  
-  2.  Type **git push _remoteRepo_ master* and *Enter*	
+  2.  Type **git push _remoteRepo_ master** and *Enter*	
   
 ## 5. Tagging
   1.  Type **git tag -a v** *Ma.Mi.R* **-m** *'Code or feature name* and *Enter*'
