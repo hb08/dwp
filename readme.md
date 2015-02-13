@@ -7,7 +7,8 @@ Thank you for taking interest in my portfolio. To make changes, please follow my
 1. Making Changes
 2. Check For Conflicts
 3. Committing and Pushing
-4. Merging and Testing
+4. Merging 
+5. Tagging
 5. Test Server
 
 
@@ -25,12 +26,17 @@ Changes must be made within a text editor of your choice, and saved within or us
   2.  Type **git commit -am ' _Appropriate Comment_ '** and *Enter*
   3.  Type **git pull** *remote repo* **master** and *Enter*
   
-## 4. Merging and Testing##
+## 4. Merging ##
   1.  Type **git merge** *changeName*
       - Resolve any conflicts  
   2.  Type **git push** *fork name ex. master* and *Enter*	
   
-## 5.  Test Server  ##
+## 5. Tagging
+  1.  Type **git tag -a v** *I.V.t* **-m* *Code or feature name* and *Enter*
+	  - Version numbering system: Iteration Number.Version Number.Test (alphabetical)
+  2.  Type **git push** *remote repo* **--tags**
+  
+## 6.  Test Server  ##
   1.  Notify team members of impending upload and testing
   2.  Type **git push** *staging server* **master**
   3.  Test again
