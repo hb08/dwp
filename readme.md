@@ -32,7 +32,7 @@ Changes must be made within a text editor of your choice, and saved within or us
   2.  Type **git push** *fork name ex. master* and *Enter*	
   
 ## 5. Tagging
-  1.  Type **git tag -a v** *I.V.t* **-m* *Code or feature name* and *Enter*
+  1.  Type **git tag -a v** *I.V.t* **-m** *'Code or feature name* and *Enter*'
 	  - Version numbering system: Iteration Number.Version Number.Test (alphabetical)
   2.  Type **git push** *remote repo* **--tags**
   
